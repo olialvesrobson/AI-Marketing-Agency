@@ -1,0 +1,48 @@
+# Upgrade Existing Studio — Social Storytelling Director
+
+Extend my existing AI Marketing & Viral Video Studio with a professional Social Storytelling Director skill.
+
+Do not create a separate project or reinstall existing video and marketing skills.
+
+First, inspect all installed skills, agents and workflows. Reuse existing capabilities wherever possible.
+
+Research and evaluate suitable storytelling, copywriting, hook-writing and social content skills from reputable repositories.
+
+Then create a custom Claude Code skill called `social-storytelling-director`.
+
+The skill must:
+
+1. Understand the brand, audience, platform and campaign objective.
+2. Identify the emotional tension, audience pain point and central message.
+3. Generate three distinct hooks.
+4. Choose an appropriate narrative framework, such as Problem–Agitate–Solve, Before–After–Bridge, Hero's Journey (adapted for short-form) or Setup–Conflict–Payoff.
+5. Write natural, conversational scripts for 15–60-second videos.
+6. Create a timestamped storyboard with visuals, dialogue, on-screen text, transitions, music cues and sound effects.
+7. Support UGC, emotional storytelling, comedy, educational content and product demonstrations.
+8. Avoid generic marketing language, exaggerated claims and artificial-sounding dialogue.
+9. Produce structured output that the existing Viral Video Studio can consume.
+10. Integrate with existing Remotion, motion graphics, sound design and video-rendering workflows.
+
+Create a `/studio-story` command supporting:
+
+- Brand
+- Platform
+- Topic
+- Audience
+- Duration
+- Storytelling style
+- Desired action
+
+Preserve all existing commands.
+
+Test the complete workflow using Eazivo Family:
+
+Topic: The mental load of managing a family's schedule.
+
+Generate three hooks, a 30-second script, a storyboard and a production-ready brief.
+
+Then validate that the existing video-production workflow can consume the brief.
+
+Do not claim integration is complete until it has been tested.
+
+Communicate with me in Brazilian Portuguese and implement the technical components in English.
