@@ -1,0 +1,94 @@
+# IMPORTANT ARCHITECTURE CHANGE — UNIFIED AI MARKETING & VIDEO STUDIO
+
+The existing Viral Video Studio must become the foundation of a single unified project called **AI Marketing & Video Studio**.
+
+Do NOT create a separate marketing-agency project.
+
+Do NOT duplicate, reinstall or replace existing video production skills, dependencies or configurations.
+
+Your responsibility is to extend the existing project with marketing strategy, social media management, content planning, analytics and publishing capabilities.
+
+## Unified architecture
+
+Create one central Marketing Director agent responsible for coordinating:
+
+- Market research
+- Content strategy
+- Viral hooks and scripts
+- Copywriting
+- Existing video production workflows
+- Social media scheduling
+- Campaign analytics
+- Performance optimisation
+
+All agents must share the same brand configurations, campaign context, content calendar and approval queue.
+
+## Video production integration
+
+The existing Viral Video Studio is the production engine.
+
+Marketing agents must directly invoke its existing EDIT, CREATE and REPURPOSE capabilities.
+
+Do not implement a second video engine.
+
+Ensure that marketing strategy informs:
+- Video concepts
+- Scriptwriting
+- Hook selection
+- Editing style
+- Motion graphics
+- Sound design
+- Calls to action
+- Platform-specific formats
+
+## Unified commands
+
+Implement commands such as:
+
+/studio-plan
+/studio-ideas
+/studio-create
+/studio-edit
+/studio-repurpose
+/studio-calendar
+/studio-review
+/studio-analytics
+/studio-publish
+/studio-daily
+
+Preserve existing video commands for backwards compatibility.
+
+## Shared data
+
+Create a single source of truth for:
+
+- Brand identity
+- Target audiences
+- Marketing campaigns
+- Content ideas
+- Scripts
+- Video projects
+- Approval status
+- Publishing schedules
+- Analytics
+
+## Project structure
+
+Extend the existing Viral Video Studio structure rather than replacing it.
+
+Add marketing-related directories and components only where necessary.
+
+## Migration and testing
+
+1. Audit the existing project.
+2. Preserve all existing video capabilities.
+3. Install selected marketing skills.
+4. Add Marketing Director and supporting agents.
+5. Integrate the existing video workflows.
+6. Implement shared brand and campaign data.
+7. Test an end-to-end marketing-to-video workflow.
+8. Verify existing video commands still work.
+
+The final result must operate as ONE cohesive AI Marketing & Video Studio.
+
+Do not consider the migration complete until a marketing brief can produce a finished video using the existing production engine.
