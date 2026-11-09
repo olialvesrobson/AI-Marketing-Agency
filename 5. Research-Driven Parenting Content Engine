@@ -1,0 +1,465 @@
+# UPGRADE: Research-Driven Parenting Content Engine
+
+You are a senior content research strategist, educational content editor, parenting-topic researcher, social media strategist and Claude Code skills engineer.
+
+Your mission is to extend my existing AI Marketing & Viral Video Studio with a new research-driven educational content capability.
+
+The new system must create useful, well-researched social media content for parents, including:
+
+- Instagram and Facebook carousels.
+- TikTok, Instagram Reels and Facebook videos.
+- Educational static posts.
+- Detailed, value-added captions.
+- Practical checklists and reusable templates.
+
+The goal is to make our social media accounts a trusted source of practical family organisation and parenting information.
+
+## 1. Important strategic principles
+
+Our educational content must deliver value independently of our products.
+
+Do not mention Eazivo Family in the body, script, carousel slides or CTA of purely educational posts.
+
+Do not add generic product references such as:
+
+"You can use paper, a shared calendar or Eazivo Family."
+
+Educational content should end with a natural, relevant takeaway or an invitation to save or share.
+
+Examples:
+- "Save this checklist for Sunday."
+- "Send this to your partner before planning next week."
+- "Share this with a parent who might find it useful."
+
+Avoid repetitive or manipulative engagement requests.
+
+Product promotions, demonstrations and conversion campaigns remain valid as separate content initiatives.
+
+Do not remove, replace or disrupt those existing initiatives.
+
+## 2. Audit the existing project
+
+Inspect:
+- Marketing Director agent.
+- Existing marketing skills.
+- Storytelling skills.
+- Value-first-content-strategist, if installed.
+- Viral Video Studio.
+- Brand configurations.
+- Existing campaigns.
+- Content calendars.
+- Publishing workflows.
+- Analytics integrations.
+- Existing approval queues.
+
+Reuse the current architecture.
+
+Do not reinstall or duplicate working skills.
+
+## 3. Create the new skill
+
+Create a custom Claude Code skill named:
+
+`parenting-content-researcher`
+
+Its responsibility is to discover genuine parent problems, research practical solutions and develop evidence-informed educational content.
+
+Use the current supported Claude Code skill format.
+
+Integrate it with the existing Marketing Director and content creation workflows.
+
+## 4. Internet research capability
+
+The skill must be capable of performing real web research when internet access is available.
+
+Investigate and configure appropriate search and retrieval tools supported by the current Claude Code environment.
+
+Do not claim to have researched a topic without actually retrieving sources.
+
+If internet access is unavailable, report the limitation and request permission or configuration rather than fabricating findings.
+
+Research sources may include:
+
+### Real parent experiences
+
+- Reddit parenting communities.
+- Public parenting forums.
+- Public Q&A discussions.
+- Parent blogs.
+- Public social media discussions where access is permitted.
+- Reviews of family organisation products.
+
+Use these sources to discover:
+- Recurring frustrations.
+- Specific questions.
+- Common mistakes.
+- Language parents naturally use.
+- Practical challenges.
+- Unmet information needs.
+
+Treat personal experiences as anecdotes, not scientific evidence.
+
+Do not reproduce identifiable private stories without permission.
+
+### Educational and professional sources
+
+Research reputable resources such as:
+
+- Raising Children Network (Australia).
+- HealthyChildren.org (American Academy of Pediatrics).
+- UNICEF Parenting.
+- CDC child-development resources.
+- Relevant university publications.
+- Qualified child-development professionals.
+- Educational parenting blogs.
+- Established family organisation resources.
+
+Prioritise credible, relevant and recent information where appropriate.
+
+Assess author expertise, evidence quality and publication dates.
+
+Do not assume that every parenting blog is authoritative.
+
+## 5. Research topics
+
+Initially focus on two major content pillars.
+
+### PILLAR A — Children and household responsibility
+
+Research topics such as:
+- Helping young children participate in household tasks.
+- Age-appropriate chores.
+- Encouraging independence.
+- Establishing routines.
+- Reducing constant reminders.
+- Helping children follow multi-step instructions.
+- Positive reinforcement.
+- Family responsibilities.
+- Teaching organisation skills.
+- Managing resistance to chores.
+- Building habits without excessive pressure.
+- Realistic expectations at different developmental stages.
+
+### PILLAR B — Family scheduling and organisation
+
+Research topics such as:
+- Weekly family planning.
+- Managing appointments.
+- School activities and deadlines.
+- Sharing household responsibilities.
+- Family mental load.
+- Coordinating two parents' schedules.
+- Morning and bedtime routines.
+- Meal planning.
+- Reducing forgotten commitments.
+- Preparing for the following week.
+- Family communication.
+- Managing schedule changes.
+
+Expand the topic library when genuine research identifies additional relevant needs.
+
+## 6. Research methodology
+
+For each content topic:
+
+STEP 1 — Identify the real problem.
+
+Find evidence that parents are asking about or discussing the issue.
+
+Record recurring themes and specific examples.
+
+STEP 2 — Research potential solutions.
+
+Consult multiple relevant educational or professional sources.
+
+Identify practical recommendations, limitations and disagreements.
+
+STEP 3 — Evaluate credibility.
+
+Distinguish:
+- Professional guidance.
+- Research findings.
+- Expert opinion.
+- Personal experiences.
+- Unverified claims.
+
+STEP 4 — Synthesise original educational value.
+
+Combine relevant insights into a clear, useful explanation.
+
+Do not simply paraphrase one article sentence by sentence.
+
+Create an original structure, practical examples and clear instructions based on the research.
+
+STEP 5 — Verify factual claims.
+
+Check that developmental, behavioural and parenting claims are supported.
+
+Avoid universal claims about children's behaviour.
+
+STEP 6 — Document sources.
+
+Store source URLs, titles, authors or organisations, publication dates where available, and the claims they support.
+
+## 7. Attribution and copyright
+
+Do not copy articles, scripts or substantial passages.
+
+Do not use paraphrasing merely to disguise copied material.
+
+Create original educational content based on independently synthesised research.
+
+Attribute specific frameworks, named methods, distinctive ideas, statistics and expert claims when appropriate.
+
+You may mention credible experts or organisations.
+
+For example:
+
+"According to the American Academy of Pediatrics..."
+
+Only use such attribution after verifying the source and the relevant claim.
+
+Provide source links in captions, source notes or editorial records when useful.
+
+Never invent quotations or citations.
+
+## 8. Content format selection
+
+For each topic, determine the most effective content format.
+
+### Carousel
+
+Prefer carousels for:
+- Checklists.
+- Age-based guides.
+- Step-by-step methods.
+- Comparisons.
+- Templates.
+- Multiple practical examples.
+
+A carousel should usually contain 5–9 slides, but the number must be determined by content needs.
+
+Each slide must deliver useful information.
+
+Avoid filler slides.
+
+### Short-form video
+
+Prefer videos for:
+- Demonstrations.
+- Emotional or relatable situations.
+- Simple tutorials.
+- Practical routines.
+- Concepts that benefit from narration or movement.
+
+Use the existing Viral Video Studio for production.
+
+### Static post
+
+Prefer static posts for:
+- One strong takeaway.
+- A compact checklist.
+- A useful reminder.
+- A concise educational framework.
+
+### Caption
+
+Captions must add useful information rather than simply repeating the post.
+
+## 9. Carousel creation requirements
+
+Create production-ready carousels with:
+
+- Slide number.
+- Slide headline.
+- Main educational content.
+- Suggested visual.
+- Layout guidance.
+- Source notes where applicable.
+- Final CTA.
+- Complete accompanying caption.
+
+Use readable typography and mobile-safe layouts.
+
+Do not overload slides with text.
+
+Ensure that a viewer can understand the main lesson without reading the caption.
+
+Integrate with any existing image or carousel production capabilities.
+
+If no suitable carousel renderer exists, implement a reusable production workflow using the project's current technology stack.
+
+Preserve editable source files.
+
+## 10. Educational quality standards
+
+Every post must answer:
+
+1. What real parent problem does this address?
+2. What will the audience learn?
+3. What concrete action can they take?
+4. Is the advice appropriate for the intended age group?
+5. What credible sources support it?
+6. Are important limitations explained?
+7. Is the content original?
+8. Would it still be valuable without mentioning Eazivo?
+9. Is it genuinely worth saving or sharing?
+10. Does the content deliver what its hook promises?
+
+Reject and revise shallow drafts.
+
+Avoid generic advice such as:
+- "Be patient."
+- "Create a routine."
+- "Communicate with your partner."
+- "Give your child responsibilities."
+
+Replace it with specific instructions, realistic examples and practical guidance.
+
+## 11. Integrate with existing marketing planning
+
+This is an ADDITIONAL educational content initiative.
+
+Do not replace the existing marketing strategy.
+
+Do not overwrite current calendars or campaigns.
+
+The Marketing Director must coordinate:
+
+- Existing promotional campaigns.
+- Product demonstrations.
+- Existing storytelling initiatives.
+- New research-driven educational content.
+- Other active marketing initiatives.
+
+Create a unified planning process that avoids duplicate topics and conflicting publishing schedules.
+
+Preserve existing content status and approval workflows.
+
+Do not impose a fixed educational/promotional posting ratio without my approval.
+
+## 12. Research and content database
+
+Maintain a persistent research library.
+
+For each topic, store:
+
+- Topic ID.
+- Content pillar.
+- Parent problem.
+- Audience and child age range.
+- Research findings.
+- Source links.
+- Evidence quality.
+- Practical recommendations.
+- Content opportunities.
+- Previously published related posts.
+- Last research date.
+
+Reuse research when appropriate, but refresh time-sensitive or disputed information.
+
+Avoid repeatedly researching the same topic without a reason.
+
+## 13. Commands
+
+Implement these commands using the currently supported Claude Code mechanism:
+
+`/parent-research`
+
+Research a specific parenting or family organisation topic.
+
+`/parent-content`
+
+Create a research-backed educational post.
+
+`/parent-carousel`
+
+Create a complete educational carousel.
+
+`/parent-reel`
+
+Create an educational short-form video script and production brief.
+
+`/parent-calendar`
+
+Propose educational content to merge with existing marketing plans.
+
+`/parent-review`
+
+Evaluate a draft for usefulness, credibility, originality and clarity.
+
+Commands must perform real workflows rather than display generic instructions.
+
+## 14. Editorial approval
+
+All externally published content requires my approval.
+
+Before content enters the production queue:
+
+- Research must be complete.
+- Sources must be documented.
+- Factual claims must be checked.
+- The educational value must be clear.
+- The content must pass originality review.
+- The post must not contain unwanted product promotion.
+
+Then submit it to the existing approval workflow.
+
+## 15. Testing
+
+Run three end-to-end tests.
+
+TEST A:
+"How to help a 3-year-old start tidying up toys."
+
+Create a researched 7-slide carousel with actionable advice.
+
+TEST B:
+"How parents can coordinate a weekly family schedule."
+
+Create a researched 45-second educational Reel and value-added caption.
+
+TEST C:
+"How to share household responsibilities without one parent constantly reminding the other."
+
+Create a researched carousel or video based on the most appropriate format.
+
+For every test:
+- Retrieve real sources.
+- Document findings.
+- Produce original educational content.
+- Verify factual claims.
+- Generate production-ready output.
+- Confirm compatibility with existing marketing planning.
+
+If research access or production tools are unavailable, report the blocker rather than simulating success.
+
+## 16. Definition of done
+
+The upgrade is complete when:
+
+- The new research skill is installed.
+- Internet research works.
+- Research sources are stored.
+- Educational scripts can be generated.
+- Educational carousels can be produced.
+- Captions contain additional value.
+- Content is reviewed for credibility and originality.
+- The skill works with existing marketing and storytelling skills.
+- The existing Video Studio remains operational.
+- The educational initiative is incorporated into the existing planning process.
+- The three test cases have been executed successfully.
+
+## START NOW
+
+Inspect my existing AI Marketing & Viral Video Studio.
+
+Identify the existing skills, research tools, content calendars and publishing workflows.
+
+Implement the Research-Driven Parenting Content Engine as an integrated addition.
+
+Do not create a separate disconnected marketing project.
+
+Preserve existing initiatives and working functionality.
+
+Communicate with me in Brazilian Portuguese and implement technical components in English.
