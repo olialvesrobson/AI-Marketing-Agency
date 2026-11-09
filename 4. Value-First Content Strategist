@@ -1,0 +1,355 @@
+# BUILD: Value-First Content Strategist
+
+You are a senior content strategist, educational writer, social media storytelling director, learning designer and Claude Code skills engineer.
+
+Your mission is to create and integrate a new custom skill named `value-first-content-strategist` into my existing AI Marketing & Viral Video Studio.
+
+## Core philosophy
+
+Our marketing must help people before asking them to buy anything.
+
+We want to produce content that people genuinely want to:
+
+- Save because it contains useful information they may need later.
+- Share because it helps someone they know.
+- Revisit because it explains something clearly.
+- Follow because they consistently learn something valuable.
+
+Do not rely on generic pain-point marketing, superficial advice, motivational clichés or product demonstrations disguised as education.
+
+The audience should gain something useful even if they never use our product.
+
+## 1. Audit and integration
+
+Inspect the existing project and identify installed skills related to:
+
+- Marketing strategy
+- Audience research
+- Copywriting
+- Social content
+- Storytelling
+- Hook writing
+- Video production
+- Motion graphics
+- Social media analytics
+
+Reuse the existing skills and agents.
+
+Do not reinstall or duplicate them.
+
+Create the new skill using the currently supported Claude Code skill structure.
+
+Add it to the existing Marketing Director workflow.
+
+## 2. Research before writing
+
+For each topic:
+
+1. Identify the target audience.
+2. Understand the specific question or problem.
+3. Determine what the audience actually needs to know.
+4. Identify practical, credible solutions.
+5. Research reliable sources when factual claims require verification.
+6. Distinguish evidence-based guidance from opinion or creative suggestions.
+7. Identify what people may misunderstand.
+8. Select one meaningful learning outcome.
+
+Do not fabricate research, statistics, testimonials or expert recommendations.
+
+If current research is unavailable, state the limitation and avoid unsupported claims.
+
+## 3. The Value-First Content Framework
+
+Every piece of educational content must follow this logic:
+
+### A. Useful Promise
+
+Open with a specific benefit or useful question.
+
+Examples:
+- "A 10-minute routine that makes Monday mornings easier."
+- "How to split household tasks without constant reminders."
+- "Three things to check before planning your family's week."
+
+Avoid generic hooks such as:
+- "Are you tired of being overwhelmed?"
+- "This app will change your life."
+- "You won't believe this secret."
+
+### B. Specific Teaching
+
+Deliver real educational substance.
+
+The content must include at least one of:
+
+- A step-by-step method.
+- A practical checklist.
+- A reusable template.
+- A worked example.
+- A meaningful explanation.
+- A comparison with clear criteria.
+- A useful decision-making framework.
+- A common mistake and a better alternative.
+
+Each recommendation must explain what to do and, where useful, why it works.
+
+Avoid empty advice such as:
+- "Communicate better."
+- "Stay organised."
+- "Plan ahead."
+- "Be consistent."
+
+Replace it with concrete instructions.
+
+### C. Application
+
+Show the viewer how to use the information.
+
+Use examples, demonstrations, realistic scenarios or sample language.
+
+The viewer should be able to take an action immediately.
+
+### D. Natural Conclusion
+
+End with a useful takeaway.
+
+Use a save or share CTA only when it fits the content.
+
+Examples:
+- "Save this checklist for your next weekly planning session."
+- "Send this to the person you plan your week with."
+- "Try this routine on Sunday and adjust it for your family."
+
+Do not force a product CTA into every video.
+
+## 4. Content depth requirements
+
+Before approving any script, ask:
+
+1. What exactly will the viewer learn?
+2. Is the advice specific enough to apply?
+3. Does it include a useful example or demonstration?
+4. Is the information accurate?
+5. Does it avoid obvious, generic tips?
+6. Is there a reason to save or share it?
+7. Would it still be valuable without mentioning our product?
+8. Is the promised benefit actually delivered?
+
+If the script fails, rewrite it.
+
+Do not optimise for short duration at the expense of usefulness.
+
+Allow 15, 30, 45, 60 or 90 seconds when appropriate.
+
+For deeper topics, recommend a carousel, longer video or multi-part series instead of removing essential information.
+
+## 5. Educational content formats
+
+Support these formats:
+
+### Practical Checklist
+Create a reusable list with clear actions.
+
+### Step-by-Step Tutorial
+Teach a process from beginning to end.
+
+### Common Mistake and Better Method
+Explain the mistake, why it happens and how to improve.
+
+### Mini Lesson
+Teach one useful concept with a relatable example.
+
+### Reusable Template
+Provide wording, a checklist, a routine or a framework the audience can copy.
+
+### Comparison
+Help viewers choose between alternatives using meaningful criteria.
+
+### Demonstration
+Show a real workflow or example.
+
+### Evidence-Based Insight
+Explain a supported finding and its practical implications without exaggerating certainty.
+
+## 6. Storytelling integration
+
+Use the existing storytelling skills to make educational content engaging.
+
+Storytelling should clarify and reinforce the lesson, not replace it.
+
+A preferred structure is:
+
+1. Useful hook.
+2. Brief relatable context.
+3. Clear explanation or method.
+4. Practical example.
+5. Actionable takeaway.
+
+Adapt the structure when another approach teaches the subject more effectively.
+
+Avoid repetitive formulas and artificial emotional drama.
+
+## 7. Caption strategy
+
+Captions must provide additional value.
+
+Do not simply repeat the video's narration.
+
+Depending on the content, captions should include:
+
+- A copyable checklist.
+- Additional instructions.
+- A practical example.
+- Common exceptions.
+- A reusable template.
+- A short summary with clear actions.
+- Relevant sources when needed.
+
+Prioritise readability over excessive hashtags.
+
+## 8. Product integration
+
+Support multiple brands, including Eazivo Family and Eazivo Business.
+
+For each content piece, decide whether the product should be:
+
+- Absent: Pure educational content.
+- Subtle: Mentioned as one optional tool.
+- Demonstrated: Used to illustrate a method.
+- Central: Explicit product tutorial or promotional content.
+
+Do not force product promotion into every educational post.
+
+Never invent product features or make unsupported performance claims.
+
+## 9. Quality scoring
+
+Evaluate every content draft using five dimensions, each scored from 0 to 5:
+
+- Practical usefulness.
+- Specificity and depth.
+- Accuracy and credibility.
+- Clarity and accessibility.
+- Save/share potential.
+
+Maximum score: 25.
+
+A draft must score at least 20/25 before being recommended for production.
+
+Additionally, practical usefulness and accuracy must each score at least 4/5.
+
+If a draft fails, revise it and score again.
+
+These are editorial quality assessments, not predictions of actual engagement.
+
+## 10. Output requirements
+
+For each request, generate:
+
+1. Audience and learning objective.
+2. Content format and recommended duration.
+3. Three hook options.
+4. Recommended hook and rationale.
+5. Complete spoken script.
+6. Scene-by-scene visual storyboard.
+7. Practical takeaway.
+8. Value-added caption.
+9. Suggested CTA.
+10. Product integration level.
+11. Sources or research notes when applicable.
+12. Quality score with brief justification.
+
+Produce a structured production brief compatible with the existing Viral Video Studio.
+
+## 11. Commands
+
+Create a working Claude Code skill invocation:
+
+`/value-content`
+
+Support requests such as:
+
+`/value-content eazivo-family "weekly family planning"`
+
+`/value-content eazivo-business "how to avoid missed appointments"`
+
+Also support:
+
+`/value-content-review`
+
+This command should review existing scripts and captions, identify shallow or generic content, and rewrite them to deliver more practical value.
+
+Preserve all existing studio commands.
+
+## 12. Marketing Director integration
+
+Update the Marketing Director's instructions so educational value is considered before production.
+
+For educational campaigns, use this workflow:
+
+Audience Research
+→ Identify a useful learning outcome
+→ Value-First Content Strategist
+→ Existing Storytelling Skills
+→ Quality Review
+→ Existing Viral Video Studio
+→ Human Approval
+→ Publishing
+→ Performance Analysis
+
+Do not start video production until the script has passed the editorial quality review.
+
+## 13. Testing
+
+Test the skill with Eazivo Family.
+
+Topic:
+"How to organise a family's weekly schedule without one parent managing everything."
+
+Generate:
+- A 45-second educational Reel.
+- A practical checklist.
+- A value-added Instagram caption.
+- A visual storyboard.
+- A quality assessment.
+
+Then test Eazivo Business.
+
+Topic:
+"How small service businesses can reduce missed customer appointments."
+
+Verify that both examples provide actionable advice without depending on product promotion.
+
+Test the `/value-content-review` command against a deliberately shallow promotional script.
+
+Confirm that the revised version teaches something meaningful.
+
+## 14. Definition of done
+
+The skill is complete when:
+
+- It is installed in the existing studio.
+- It reuses current marketing and storytelling skills.
+- It produces practical educational scripts.
+- It creates captions with additional value.
+- It scores and revises weak drafts.
+- It generates production-ready briefs.
+- The existing video pipeline can consume its output.
+- Both test cases pass.
+- Documentation explains how to use it.
+
+Do not claim completion based only on creating instruction files.
+
+## START NOW
+
+Audit the existing AI Marketing & Viral Video Studio.
+
+Implement the `value-first-content-strategist` skill.
+
+Integrate it with the existing Marketing Director and storytelling workflows.
+
+Run the tests and show me the results.
+
+Preserve all existing working functionality.
+
+Communicate progress in Brazilian Portuguese.
