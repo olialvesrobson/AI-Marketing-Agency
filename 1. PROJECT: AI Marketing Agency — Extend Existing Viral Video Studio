@@ -1,0 +1,488 @@
+# PROJECT: AI Marketing Agency — Extend Existing Viral Video Studio
+
+You are a senior AI automation engineer, growth marketing strategist, social media manager, creative director and Claude Code skills architect.
+
+Your mission is to extend my existing Claude Code environment into a complete AI-powered marketing agency.
+
+**IMPORTANT: I already have a Viral Video Studio with video creation, editing, motion graphics, sound effects and audio production skills. Do not reinstall, replace or duplicate these tools. Reuse the existing video capabilities.**
+
+I want you to implement this system, not simply describe how to build it.
+
+Communicate with me in Brazilian Portuguese. Write code, configuration and technical documentation in English.
+
+## 1. Audit the existing environment
+
+Before installing anything:
+
+1. Inspect the current project and its CLAUDE.md instructions.
+2. Locate existing Claude Code skills, agents, commands and plugins.
+3. Identify the installed Viral Video Studio capabilities.
+4. Check existing Remotion, FFmpeg, Whisper and audio integrations.
+5. Identify any existing marketing or social media skills.
+6. Detect duplicated or conflicting functionality.
+7. Preserve all working video-production capabilities.
+
+Create a brief inventory showing:
+- Already installed.
+- Missing.
+- Needs updating.
+- Potential conflicts.
+- Recommended additions.
+
+Do not assume a skill is installed merely because it was mentioned in documentation.
+
+## 2. Research and install marketing skills
+
+Evaluate the following repositories:
+
+**Priority 1 — Marketing strategy**
+https://github.com/coreyhaines31/marketingskills
+
+Focus on:
+- product-marketing-context
+- content-strategy
+- social-content
+- copywriting
+- marketing-ideas
+- competitor-alternatives
+- paid-ads
+
+**Priority 2 — Viral social content**
+https://github.com/scrollmark/social-skills
+
+Evaluate relevant capabilities for:
+- Hook creation and analysis.
+- Short-form storytelling.
+- Social media trends.
+- Content repurposing.
+- Creative performance analysis.
+- Platform-specific content optimisation.
+
+**Priority 3 — Campaign management**
+https://github.com/marcosmodly/marketing-skill
+
+Evaluate:
+- Editorial calendars.
+- Campaign planning.
+- Social media workflows.
+- Publishing approval processes.
+
+**Priority 4 — Paid marketing**
+https://github.com/thatrebeccarae/claude-marketing
+
+Evaluate:
+- Meta Ads.
+- TikTok Ads.
+- Google Ads.
+- Campaign performance analysis.
+- Advertising creative testing.
+
+**Priority 5 — App growth**
+https://github.com/ai-vita/skills
+
+Evaluate:
+- App Store Optimisation.
+- User acquisition.
+- Conversion optimisation.
+- Retention strategies.
+- Product growth.
+
+### Installation requirements
+
+- Verify that each repository exists and is maintained.
+- Inspect its licence and installation instructions.
+- Review third-party skill files and scripts for security risks.
+- Install only useful, compatible skills.
+- Prefer high-quality, well-maintained skills.
+- Avoid redundant skills with overlapping responsibilities.
+- Do not install an entire collection when a small selection is sufficient.
+- Do not execute untrusted installation scripts without review.
+- Do not overwrite existing skills without approval.
+- Record exactly which skills were installed and their sources.
+
+If a suggested skill is unavailable, identify a suitable maintained alternative or implement a small custom skill.
+
+## 3. Build the Marketing Agency architecture
+
+Create one central orchestration agent:
+
+### MARKETING DIRECTOR
+
+Responsibilities:
+- Understand the product and target audience.
+- Establish marketing objectives.
+- Coordinate specialised agents.
+- Maintain brand consistency.
+- Manage campaign priorities.
+- Approve internal production plans.
+- Request human approval for external publishing.
+- Review marketing performance.
+- Improve future content decisions.
+
+Create the following specialised agents where they provide a meaningful benefit.
+
+### A. Market Research Agent
+
+Responsibilities:
+- Research competitors.
+- Analyse customer pain points.
+- Identify relevant market trends.
+- Discover content opportunities.
+- Analyse audience questions and objections.
+- Produce evidence-based recommendations.
+
+Distinguish verified current trends from creative hypotheses.
+
+Never invent social media engagement statistics.
+
+### B. Content Strategy Agent
+
+Responsibilities:
+- Build weekly and monthly content calendars.
+- Define content pillars.
+- Balance educational, entertaining, promotional and product-demonstration content.
+- Generate campaign ideas.
+- Maintain consistency across platforms.
+- Define measurable objectives.
+
+### C. Viral Content Agent
+
+Responsibilities:
+- Develop strong opening hooks.
+- Create short-form scripts.
+- Generate storytelling concepts.
+- Adapt content to TikTok, Instagram and Facebook.
+- Develop multiple creative variations.
+- Recommend editing styles and visual treatments.
+
+Focus on retention and engagement without making unsupported promises of virality.
+
+### D. Copywriting Agent
+
+Responsibilities:
+- Write captions.
+- Create headlines.
+- Develop calls to action.
+- Write carousel content.
+- Create advertising copy.
+- Generate hashtags when useful.
+- Adapt brand tone for each platform.
+
+### E. Video Production Agent
+
+**Reuse my existing Viral Video Studio.**
+
+Responsibilities:
+- Receive approved scripts and creative briefs.
+- Select EDIT, CREATE or REPURPOSE mode.
+- Invoke existing video-production skills.
+- Generate motion graphics.
+- Produce subtitles.
+- Add narration, music and sound effects.
+- Render final videos.
+- Return finished media and production metadata.
+
+Do not build another video-rendering engine.
+
+### F. Social Media Manager Agent
+
+Responsibilities:
+- Maintain a publishing calendar.
+- Prepare platform-specific content.
+- Validate media requirements.
+- Manage drafts and approval status.
+- Schedule approved posts through configured integrations.
+- Track publishing results.
+- Prevent duplicate posts.
+
+Evaluate Metricool or other officially supported social media management integrations.
+
+Do not assume that an integration is available without verifying its capabilities.
+
+### G. Marketing Analytics Agent
+
+Responsibilities:
+- Retrieve available performance metrics.
+- Analyse views, reach, engagement and conversions.
+- Compare content performance.
+- Identify patterns in successful posts.
+- Recommend improvements.
+- Produce weekly performance reports.
+
+Use actual connected data whenever available.
+
+Clearly label estimated or unavailable metrics.
+
+### H. App Growth Agent
+
+Responsibilities:
+- Develop user acquisition strategies.
+- Recommend App Store Optimisation improvements.
+- Analyse conversion opportunities.
+- Suggest onboarding improvements.
+- Develop retention and referral campaigns.
+- Propose experiments with measurable outcomes.
+
+## 4. Support multiple brands
+
+Create separate brand configurations for:
+
+**Brand 1: Eazivo Family**
+- Family calendar and household organisation app.
+- Audience: parents and families.
+- Channels: TikTok, Instagram and Facebook.
+- Content: family organisation, shared schedules, chores, meals, family coordination and product demonstrations.
+
+**Brand 2: Eazivo Business**
+- Service-business management application.
+- Audience: sole traders and small service companies.
+- Content: scheduling, job management, customer communication, team coordination and operational efficiency.
+
+Use existing project documentation and assets when available.
+
+Do not invent product features, pricing, testimonials or customer results.
+
+Maintain independent:
+- Brand identity.
+- Audience profiles.
+- Content calendars.
+- Campaign objectives.
+- Analytics.
+- Publishing credentials.
+- Marketing strategies.
+
+Allow the Marketing Director to switch brands.
+
+## 5. Daily Marketing Workflow
+
+Build a reusable daily workflow.
+
+Default proposed schedule: 8:00 AM Australia/Brisbane.
+
+The workflow should:
+
+1. Load the selected brand configuration.
+2. Review existing content and campaign history.
+3. Research relevant trends where data access exists.
+4. Generate three content ideas.
+5. Score each idea based on audience relevance, hook strength, production effort and campaign objectives.
+6. Select the strongest concept.
+7. Create a complete script.
+8. Generate a production brief.
+9. Send the brief to the existing Viral Video Studio.
+10. Render a draft video when technically feasible.
+11. Generate captions and platform-specific metadata.
+12. Save everything to an approval queue.
+13. Produce a concise daily report.
+
+Do not publish automatically without my approval.
+
+Implement scheduling only after verifying the available runtime, authentication, costs and whether the machine must remain powered on.
+
+If scheduling cannot be configured immediately, provide a working manual command.
+
+## 6. Content approval system
+
+Implement these statuses:
+
+IDEA
+DRAFT
+IN_PRODUCTION
+READY_FOR_REVIEW
+APPROVED
+SCHEDULED
+PUBLISHED
+REJECTED
+FAILED
+
+Create a simple, persistent approval queue.
+
+Each content item should contain:
+- Unique ID.
+- Brand.
+- Platform.
+- Campaign.
+- Content concept.
+- Script.
+- Media file paths.
+- Caption.
+- Proposed publishing date.
+- Approval status.
+- Publication reference, if available.
+- Performance data, if available.
+
+Human approval is mandatory before external publication.
+
+Do not treat internal agent approval as user approval.
+
+## 7. Social media integrations
+
+Investigate supported integrations for:
+- Instagram.
+- Facebook.
+- TikTok.
+- Metricool.
+- Google Sheets, if useful for the editorial calendar.
+
+Prefer official APIs or authorised integrations.
+
+Never use browser automation to bypass platform restrictions or access controls.
+
+Do not store access tokens in source code.
+
+Use environment variables or an appropriate credential manager.
+
+Publishing must be idempotent where possible, to avoid duplicate posts.
+
+## 8. Claude Code commands
+
+Create functional commands or skills using the currently supported Claude Code mechanism:
+
+/marketing-plan
+/marketing-daily
+/marketing-ideas
+/marketing-script
+/marketing-create
+/marketing-calendar
+/marketing-review
+/marketing-analytics
+/marketing-publish
+/marketing-status
+
+Examples:
+
+/marketing-daily eazivo-family
+
+/marketing-ideas eazivo-business
+
+/marketing-create eazivo-family
+
+/marketing-analytics eazivo-family
+
+Each command must perform a real workflow, not merely display generic instructions.
+
+Reuse existing video commands wherever possible.
+
+## 9. Suggested project structure
+
+Organise the system into a maintainable architecture:
+
+marketing-agency/
+- CLAUDE.md
+- README.md
+- config/
+- brands/
+  - eazivo-family/
+  - eazivo-business/
+- agents/
+- skills/
+- commands/
+- campaigns/
+- content-calendar/
+- approval-queue/
+- analytics/
+- integrations/
+- scripts/
+- tests/
+- docs/
+
+Adapt this structure to the existing environment.
+
+Do not unnecessarily relocate or duplicate the Viral Video Studio.
+
+Use a documented integration interface between the marketing agency and the existing video project.
+
+## 10. Cost and security requirements
+
+Prioritise free and open-source tools.
+
+Do not activate paid APIs or services without my approval.
+
+Do not purchase advertisements or subscribe to external services.
+
+Do not publish content, send messages or modify live campaigns without my explicit approval.
+
+Do not expose API keys.
+
+Do not grant third-party skills unrestricted access to credentials.
+
+Maintain an installation manifest and a record of external integrations.
+
+## 11. Testing
+
+Implement and test:
+
+- Brand configuration loading.
+- Marketing agent coordination.
+- Content idea generation.
+- Script generation.
+- Calendar persistence.
+- Approval status transitions.
+- Video Studio integration.
+- Draft asset creation.
+- Analytics handling when no external data exists.
+- Prevention of unauthorised publication.
+
+Run a complete test using Eazivo Family.
+
+Expected test output:
+- Three marketing ideas.
+- One selected concept.
+- One short-form script.
+- One production brief.
+- One draft video if the existing Video Studio is operational.
+- Captions for Instagram, TikTok and Facebook.
+- One approval-queue entry.
+
+Do not mark a feature as complete unless it has been tested successfully.
+
+## 12. Definition of done
+
+The system is ready when:
+
+- Existing video skills remain operational.
+- Selected marketing skills are installed.
+- Marketing Director and specialised agents are functional.
+- Both Eazivo brands are configured.
+- Content calendars are persistent.
+- The approval queue works.
+- Marketing commands execute successfully.
+- The existing Video Studio can receive production briefs.
+- A complete marketing workflow has been tested.
+- Documentation explains setup, usage, costs and limitations.
+
+## 13. Implementation approach
+
+Work in phases:
+
+Phase 1: Audit existing environment.
+
+Phase 2: Evaluate and install marketing skills.
+
+Phase 3: Create Marketing Director and specialised agents.
+
+Phase 4: Integrate Viral Video Studio.
+
+Phase 5: Implement calendar and approval workflow.
+
+Phase 6: Evaluate social media integrations.
+
+Phase 7: Test the complete Eazivo Family workflow.
+
+Phase 8: Configure daily automation if feasible and approved.
+
+Maintain a progress checklist and report blockers clearly.
+
+Do not stop after creating documentation or empty project scaffolding.
+
+## START NOW
+
+Inspect my current Claude Code environment and identify the existing Viral Video Studio.
+
+Verify the recommended marketing skill repositories and their current installation methods.
+
+Create an implementation plan, then begin installing and configuring the system.
+
+Only ask for my help when permissions, credentials, paid services or important product decisions require my intervention.
+
+Your first priority is a working marketing workflow integrated with my existing video production system.
