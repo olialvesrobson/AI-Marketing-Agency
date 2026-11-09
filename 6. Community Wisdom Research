@@ -1,0 +1,153 @@
+# EXTENSION: Community Wisdom Research
+
+Extend the existing `parenting-content-researcher` skill with a new capability called `community-wisdom-research`.
+
+Do not create a separate project or duplicate existing research functionality.
+
+## Objective
+
+Discover practical, experience-based parenting techniques from real people and responsibly incorporate useful insights into educational social media content.
+
+The goal is to combine professional guidance with real-world experiences, producing content that is credible, specific, relatable and actionable.
+
+## Research sources
+
+Search publicly accessible discussions from:
+
+- Reddit parenting communities.
+- Public parenting forums.
+- Relevant public Q&A discussions.
+- Public parent blogs and comments.
+- Other appropriate community resources.
+
+Respect platform access rules, privacy and rate limits.
+
+Do not bypass authentication, scrape private communities or collect personal information unnecessarily.
+
+## Research workflow
+
+### Step 1 — Discover
+
+For each research topic, find discussions where people describe:
+
+- A specific parenting problem.
+- A technique they personally tried.
+- What happened after trying it.
+- What did not work.
+- Relevant context such as the child's age or family situation.
+
+Prioritise detailed first-hand experiences over vague recommendations.
+
+### Step 2 — Extract techniques
+
+Identify specific, actionable suggestions.
+
+For each technique, record:
+
+- The problem addressed.
+- What the parent actually did.
+- The reported outcome.
+- Relevant age or context.
+- Limitations or negative experiences.
+- Source URL.
+- Whether the account is first-hand or second-hand.
+
+Do not treat an anecdote as established evidence.
+
+### Step 3 — Compare experiences
+
+Look for:
+
+- Similar techniques reported independently.
+- Contradictory experiences.
+- Situations where a technique appears less suitable.
+- Practical adaptations.
+- Potential safety concerns.
+
+Do not treat repetition, popularity or upvotes as scientific validation.
+
+### Step 4 — Validate
+
+Compare the techniques with reputable professional and educational guidance.
+
+Classify each suggestion as:
+
+1. Supported by relevant evidence or professional guidance.
+2. Plausible, low-risk community suggestion with limited evidence.
+3. Uncertain or context-dependent.
+4. Potentially harmful or inappropriate.
+
+Exclude harmful suggestions from recommendations.
+
+For uncertain techniques, explain the limitations instead of presenting them as proven.
+
+### Step 5 — Synthesize
+
+Create original educational content combining:
+
+- A genuine problem parents discuss.
+- Credible explanations.
+- Practical community suggestions.
+- Realistic examples.
+- Age-appropriate adaptations.
+- Important limitations.
+
+Do not copy or closely paraphrase individual Reddit posts.
+
+Do not invent community experiences or outcomes.
+
+Attribute distinctive ideas, quotations and named methods when appropriate.
+
+Never imply that a technique is endorsed by experts unless the evidence supports that claim.
+
+## Editorial requirements
+
+The finished content must:
+
+- Teach something concrete.
+- Provide actionable instructions.
+- Explain why the suggestion may help.
+- Avoid exaggerated promises.
+- Respect differences between children and families.
+- Be useful without mentioning Eazivo Family.
+- End with a natural educational takeaway or save/share CTA.
+
+Keep source links and evidence classifications in the internal research record.
+
+## Integration
+
+Update the existing research workflow to:
+
+Research parent problems
+→ Discover community techniques
+→ Research professional guidance
+→ Compare and validate
+→ Synthesize practical lessons
+→ Create educational content
+→ Editorial quality review
+→ Existing production and approval workflows.
+
+Support both carousels and videos.
+
+## Testing
+
+Test with:
+
+"Practical techniques parents have used to help children aged 2–4 tidy up toys."
+
+Retrieve actual public discussions.
+
+Extract at least three distinct techniques if sufficient evidence exists.
+
+Compare them with credible child-development guidance.
+
+Produce:
+- A research summary.
+- A source list.
+- Evidence classifications.
+- A practical educational carousel.
+- A caption with additional value.
+
+If sources are insufficient, report that rather than fabricating findings.
+
+Preserve all existing marketing initiatives and video production functionality.
